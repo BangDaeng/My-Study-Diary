@@ -3,4 +3,4 @@
 
 
 ### Site
-[colab 단축키][http://studycolab.blogspot.com/]
+[colab 단축키](http://studycolab.blogspot.com/)
