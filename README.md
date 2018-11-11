@@ -16,6 +16,10 @@ sql 첫걸음
 데이터분석을 위한 sql 레시피<br>
 딥러닝을 이용한 자연어처리
 
+## 공부 계획
+수리통계나 통계분석에 대해서는 나의 지식 깊이가 얕다.<br>
+지금 공부중인 거 하나 마무리 되면 통계분석 강의나 책을 들어야함!
+
 ## Useful Sites
 [colab 시작하기](https://www.youtube.com/watch?v=XRBXMohjQos&t=462s)<br>
 [자연어처리 - ratsgo's blog](https://ratsgo.github.io/)
