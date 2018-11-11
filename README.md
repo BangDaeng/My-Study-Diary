@@ -18,5 +18,5 @@ sql 첫걸음
 딥러닝을 이용한 자연어처리
 
 ## Useful Sites
-[colab 시작하기](https://www.youtube.com/watch?v=Y9MqoK5tUkw&t=413s)<br>
+[colab 시작하기](https://www.youtube.com/watch?v=XRBXMohjQos&t=462s)<br>
 [자연어처리 - ratsgo's blog](https://ratsgo.github.io/)
