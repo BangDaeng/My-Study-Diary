@@ -18,7 +18,7 @@ sql 첫걸음
 
 ## 공부 계획
 수리통계나 통계분석에 대해서는 나의 지식 깊이가 얕다.<br>
-지금 공부중인 거 하나 마무리 되면 통계분석 강의나 책을 들어야함!
+지금 공부중인 거 하나 마무리 되면 통계분석 심화 강의, 책을 공부하기!
 
 ## Useful Sites
 [colab 시작하기](https://www.youtube.com/watch?v=XRBXMohjQos&t=462s)<br>
