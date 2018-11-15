@@ -1,14 +1,17 @@
 공부한 것들(강의, 책, 논문)을 정리하는 공간~! 공부계획도!
-
+| Lecture     | book   | paper  |
+| ------------- |:-------------:| :-------------:|  
 ## lecture
-모두를 위한 딥러닝<br>
+| 모두를 위한 딥러닝 | 점프 투 파이썬 | [형태소_기반_효율적인_한국어_단어_임베딩(이동준 외 2, 정보과학회논문지, 2018)](https://bangdaeng2.tistory.com/2?category=757926) |
+
+
 [선형대수 with Khan Academy](https://bangdaeng2.tistory.com/category/Lecture/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20with%20Khan%20Academy)
 
 ## paper
-[형태소_기반_효율적인_한국어_단어_임베딩(이동준 외 2, 정보과학회논문지, 2018)](https://bangdaeng2.tistory.com/2?category=757926)
+
 
 ## book
-점프 투 파이썬<br>
+<br>
 sql 첫걸음
 
 ## 공부중인 것
