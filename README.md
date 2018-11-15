@@ -28,4 +28,5 @@ sql 첫걸음
 
 ## Useful Sites
 [colab 시작하기](https://www.youtube.com/watch?v=XRBXMohjQos&t=462s)<br>
+[colab 명령어](http://studycolab.blogspot.com/2018/05/bash.html)
 [자연어처리 - ratsgo's blog](https://ratsgo.github.io/)
