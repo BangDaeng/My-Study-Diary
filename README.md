@@ -13,6 +13,7 @@
 
 <hr>
 ## 공부 끝낸 것
+
 ## Lecture
 모두를 위한 딥러닝(김성훈 교수님)<br>
 [선형대수 with Khan Academy](https://bangdaeng2.tistory.com/category/Lecture/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20with%20Khan%20Academy)
