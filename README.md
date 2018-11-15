@@ -22,9 +22,10 @@
 점프 투 파이썬<br>
 sql 첫걸음
 ## paper
-[형태소_기반_효율적인_한국어_단어_임베딩(이동준 외 2, 정보과학회논문지, 2018)](https://bangdaeng2.tistory.com/2?category=757926) |
+[형태소_기반_효율적인_한국어_단어_임베딩(이동준 외 2, 정보과학회논문지, 2018)](https://bangdaeng2.tistory.com/2?category=757926)
 
 <hr>
+
 ## Useful Sites
 [colab 시작하기](https://www.youtube.com/watch?v=XRBXMohjQos&t=462s)<br>
 [자연어처리 - ratsgo's blog](https://ratsgo.github.io/)
