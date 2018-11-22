@@ -36,4 +36,5 @@ sql 첫걸음<br>
 [colab 명령어](http://studycolab.blogspot.com/2018/05/bash.html)<br>
 [자연어처리 - ratsgo's blog](https://ratsgo.github.io/)<br>
 [선형대수학 - Learn Again!](https://twlab.tistory.com/category/Fundamentals/Linear%20Algebra)<br>
-[XGBOOST 사용하기](https://brunch.co.kr/@snobberys/137)
+[XGBOOST 설명서](https://brunch.co.kr/@snobberys/137)
+[Window10 ](https://www.ics.uci.edu/~shantas/Install_Spark_on_Windows10.pdf)
