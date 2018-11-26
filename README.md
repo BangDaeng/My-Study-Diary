@@ -11,7 +11,7 @@
 <hr>
 
 ## 공부하고 있는 것
-인공지능을 위한 선형대수(주재걸 교수님)
+인공지능을 위한 선형대수(주재걸 교수님)<
 데이터분석을 위한 sql 레시피<br>
 [딥러닝을 이용한 자연어처리(조경현 교수님)](https://bangdaeng2.tistory.com/category/Lecture/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC%28%EC%A1%B0%EA%B2%BD%ED%98%84%20%EA%B5%90%EC%88%98%EB%8B%98%29)<br>
 Context encoders as a simple but powerful extension of word2vec 논문 읽기
