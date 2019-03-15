@@ -1,5 +1,5 @@
 ## Must do it!!! This week
-0. 점프 투 자바 이번주에 끝내자 무조건 이건 무조건<br>
+0. 자바 공부 자바 공부<br>
 1. PR027:Glove 보고 논문 읽고 코드 사용해보기
 2. Natenews 크롤링 코드 수정하기~!!!
 
@@ -14,7 +14,7 @@
 ## 공부하고 있는 것
 인공지능을 위한 선형대수(주재걸 교수님)<br>
 밑바닥부터 시작하는 딥러닝<br>
-데이터분석을 위한 sql 레시피<br>
+do it 자바 프로그래밍 입문<br>
 [딥러닝을 이용한 자연어처리(조경현 교수님)](https://bangdaeng2.tistory.com/category/Lecture/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC%28%EC%A1%B0%EA%B2%BD%ED%98%84%20%EA%B5%90%EC%88%98%EB%8B%98%29)<br>
 
 <hr>
