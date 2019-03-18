@@ -1,6 +1,5 @@
 ## Must do it!!! This week
-0. 자바 공부 자바 공부<br>
-1. PR027:Glove 보고 논문 읽고 코드 사용해보기
+1. PR027:Glove 보고 논문 읽고 코드 사용해보기<br>
 2. Natenews 크롤링 코드 수정하기~!!!
 
 ## Study plan
