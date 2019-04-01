@@ -37,7 +37,7 @@ sql 첫걸음<br>
 <hr>
 
 ## Useful Sites
-[ftp 명령어](https://m.blog.naver.com/PostView.nhn?blogId=thomson09&logNo=60155035803&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+[ftp 명령어](https://m.blog.naver.com/PostView.nhn?blogId=thomson09&logNo=60155035803&proxyReferer=https%3A%2F%2Fwww.google.com%2F)<br>
 [colab 시작하기](https://www.youtube.com/watch?v=XRBXMohjQos&t=462s)<br>
 [colab 명령어](http://studycolab.blogspot.com/2018/05/bash.html)<br>
 [자연어처리 - ratsgo's blog](https://ratsgo.github.io/)<br>
