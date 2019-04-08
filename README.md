@@ -1,6 +1,6 @@
 ## Must do it!!! This week
 1. PR027:Glove 보고 논문 읽고 코드 사용하기<br>
-2. Natenews 크롤링 코드 수정하기~!!!
+2. Natenews 크롤링 코드 수정하기~!
 
 ## Study plan
 1. 배우는 것만 중요한 것이 아니라 만들어보는 것도 중요하다.<br>
