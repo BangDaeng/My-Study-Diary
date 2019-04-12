@@ -1,5 +1,5 @@
 ## Must do it!!! This week
-1. PR027:Glove 보고 논문 읽고 코드 사용하기<br>
+1. 쟝고 공부하자 쟝고 ㅠ.. 웹 만들어야함<br>
 2. Natenews 크롤링 코드 수정하기~!
 
 ## Study plan
