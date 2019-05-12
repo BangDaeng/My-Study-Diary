@@ -38,11 +38,12 @@ sql 첫걸음<br>
 <hr>
 
 ## Useful Sites
+[CNN 구조](http://taewan.kim/post/cnn/)<br>
 [ftp 명령어](https://annehouse.tistory.com/374)<br>
-[colab 시작하기](https://www.youtube.com/watch?v=XRBXMohjQos&t=462s)<br>
 [리눅스 명령어1](http://studycolab.blogspot.com/2018/05/bash.html)<br>
 [리눅스 명령어2](https://nuninaya.tistory.com/158)<br>
 [자연어처리 - ratsgo's blog](https://ratsgo.github.io/)<br>
 [선형대수학 - Learn Again!](https://twlab.tistory.com/category/Fundamentals/Linear%20Algebra)<br>
 [XGBOOST 설명서](https://brunch.co.kr/@snobberys/137)<br>
 [Window10 SPARK 설치](https://www.ics.uci.edu/~shantas/Install_Spark_on_Windows10.pdf)
+
