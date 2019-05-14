@@ -33,8 +33,8 @@ do it 자바 프로그래밍 입문<br>
 sql 첫걸음<br>
 3분 딥러닝 텐서플로맛
 ### paper
-[형태소_기반_효율적인_한국어_단어_임베딩(이동준 외 2, 정보과학회논문지, 2018)](https://bangdaeng2.tistory.com/2?category=757926)
-
+[형태소_기반_효율적인_한국어_단어_임베딩(이동준 외 2, 정보과학회논문지, 2018)](https://bangdaeng2.tistory.com/2?category=757926)<br>
+[CNN for Sentence Classification(Yoon Kim, 2014)(https://bangdaeng2.tistory.com/category/Paper%20Review)
 <hr>
 
 ## Useful Sites
