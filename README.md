@@ -38,6 +38,7 @@ sql 첫걸음<br>
 <hr>
 
 ## Useful Sites
+[띄어쓰기 교정기 만드는 방법들](https://comeng.tistory.com/entry/1-%ED%95%9C%EA%B5%AD%EC%96%B4-%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0)<br>
 [CNN 구조](http://taewan.kim/post/cnn/)<br>
 [ftp 명령어](https://annehouse.tistory.com/374)<br>
 [리눅스 명령어1](http://studycolab.blogspot.com/2018/05/bash.html)<br>
