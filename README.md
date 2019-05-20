@@ -1,6 +1,6 @@
 ## Must do it!!! This week
 1. 장고 걸스 정독하기<br>
-2. soynlp
+2. text CNN 주말에 실행하고 코드 만들기<br>
 
 ## Study plan
 1. 배우는 것만 중요한 것이 아니라 만들어보는 것도 중요하다.<br>
