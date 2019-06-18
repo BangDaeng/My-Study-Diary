@@ -1,22 +1,17 @@
 ## Must do it!!! This week
-1. 장고 걸스 정독하기<br>
-2. text CNN 주말에 실행하고 코드 만들기<br>
+1. 낚시성 기사 분류기 디벨롭하기(CNN기반 텍스트 분류 적용하기) <br>
 
 ## Study plan
-1. 배우는 것만 중요한 것이 아니라 만들어보는 것도 중요하다.<br>
--> 관심있는 주제를 먼저 생각하고 장기 프로젝트를 진행하자
-
-2. 수리통계나 통계분석에 대해서는 나의 지식 깊이가 얕다.<br>
--> 지금 공부중인 거 하나 마무리 되면 통계분석 심화 강의, 책을 공부하기!<br>
-
+1. 통계 관련 공부할 거 정하기<br>
+2. 선형대수 관련 공부할 거 정하기<br>
+3. 2주일에 논문 한편 정도는 읽자 제발...<br>
 <hr>
 
 ## 공부하고 있는 것<br>
 
-인공지능을 위한 선형대수(주재걸 교수님)<br>
+텐서플로와 머신러닝으로 시작하는 자연어처리<br>
 데이터 구조 및 분석2(문일철 교수님)<br>
 sql 레벨업<br>
-밑바닥부터 시작하는 딥러닝<br>
 do it 자바 프로그래밍 입문<br>
 
 <hr>
@@ -28,10 +23,15 @@ do it 자바 프로그래밍 입문<br>
 딥러닝을 이용한 자연어처리(조경현 교수님)<br>
 데이터 구조 및 분석1(문일철 교수님)<br>
 [선형대수 with Khan Academy](https://bangdaeng2.tistory.com/category/Lecture/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20with%20Khan%20Academy)
+인공지능을 위한 선형대수(주재걸 교수님)<br>
+
+
 ### book
 점프 투 파이썬<br>
 sql 첫걸음<br>
 3분 딥러닝 텐서플로맛
+밑바닥부터 시작하는 딥러닝<br>
+
 ### paper
 [형태소_기반_효율적인_한국어_단어_임베딩(이동준 외 2, 정보과학회논문지, 2018)](https://bangdaeng2.tistory.com/2?category=757926)<br>
 [CNN for Sentence Classification(Yoon Kim, 2014)](https://bangdaeng2.tistory.com/category/Paper%20Review)
