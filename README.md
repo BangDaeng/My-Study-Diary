@@ -1,6 +1,7 @@
 ## Must do it!!! This week
 1. 낚시성 기사 분류기 디벨롭하기(CNN기반 텍스트 분류 적용하기) <br>
-
+2. Textrank 공부 끝내기 <br>
+3. 자연어처리 책 - Chatbot 코드 리뷰 끝내기
 ## Study plan
 1. 통계 관련 공부할 거 정하기<br>
 2. 선형대수 관련 공부할 거 정하기<br>
