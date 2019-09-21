@@ -1,7 +1,7 @@
 ## Must do it!!! This week
-1. 낚시성 기사 분류기 디벨롭(CNN기반 텍스트 분류 적용하기) -- Clear <br>
-2. Textrank 공부 끝내기 <br>
-3. scala
+1. Text generating project 진행 -- Clear <br>
+2. 캐글 시작하기 <br>
+3. scala 꾸준히 공부하기 (가능하면 coursera functional programming 수강하기)
 ## Study plan
 1. 2주일에 논문 한편 정도는 읽자 제발...<br>
 <hr>
