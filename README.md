@@ -1,5 +1,5 @@
 ## Must do it!!! This week
-1. Text generating project 진행 -- Clear <br>
+1. Text generating project 진행 -- Ing <br>
 2. 캐글 시작하기 <br>
 3. scala 꾸준히 공부하기 (가능하면 coursera functional programming 수강하기)
 ## Study plan
