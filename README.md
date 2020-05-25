@@ -23,3 +23,12 @@ sql 레벨업<br>
 텐서플로와 머신러닝으로 시작하는 자연어처리<br>
 누구나 쉽게 스칼라+플레이<br>
 파이썬 웹 프로그래밍(Django장고로 배우는 쉽고 빠른 웹 개발)<br>
+
+## Useful Sites
+[자연어처리 - ratsgo's blog](https://ratsgo.github.io/)<br>
+[자연어처리2 - wikidocs](https://wikidocs.net/book/2155)<br>
+[자연어처리3 - lovit(김현중 박사님)](https://lovit.github.io/navigator)<br>
+[자연어처리4 - b2b_min](https://bab2min.tistory.com/)<br>
+[스칼라1 - alvin alexander](https://alvinalexander.com/scala/functional-programming-simplified-book/)<br>
+[스칼라2 - 스칼라학교](https://twitter.github.io/scala_school/ko/index.html)<br>
+[스칼라3 - 스칼라 공부사이트 모음](https://118k.tistory.com/705)<br>
