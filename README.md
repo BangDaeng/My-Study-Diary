@@ -23,7 +23,7 @@ sql 레벨업<br>
 텐서플로와 머신러닝으로 시작하는 자연어처리<br>
 누구나 쉽게 스칼라+플레이<br>
 파이썬 웹 프로그래밍(Django장고로 배우는 쉽고 빠른 웹 개발)<br>
-
+프로그래머를 위한 확률과 통계<br>
 ## Useful Sites
 [자연어처리 - ratsgo's blog](https://ratsgo.github.io/)<br>
 [자연어처리2 - wikidocs](https://wikidocs.net/book/2155)<br>
