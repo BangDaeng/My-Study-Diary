@@ -1,8 +1,9 @@
 ## 공부정리 다이어리
 
 https://bangdaeng2.tistory.com/
-
-
+<br>
+논문 꾸준히 읽기(1주일에 1편 정도는...)<br>
+백준 문제도 꾸준히 풀기 <br>
 <hr>
 
 ### Lecture
