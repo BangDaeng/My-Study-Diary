@@ -31,3 +31,4 @@ sql 레벨업<br>
 [스칼라1 - alvin alexander](https://alvinalexander.com/scala/functional-programming-simplified-book/)<br>
 [스칼라2 - 스칼라학교](https://twitter.github.io/scala_school/ko/index.html)<br>
 [스칼라3 - 스칼라 공부사이트 모음](https://118k.tistory.com/705)<br>
+[알고리즘 설명 - 안경잡이 개발자](https://blog.naver.com/ndb796)
